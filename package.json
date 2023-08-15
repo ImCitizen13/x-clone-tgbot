@@ -1,0 +1,21 @@
+{
+  "name": "x-clone-tgbot",
+  "version": "1.0.0",
+  "description": "TG bot ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImCitizen13/x-clone-tgbot.git"
+  },
+  "author": "Citizen13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImCitizen13/x-clone-tgbot/issues"
+  },
+  "homepage": "https://github.com/ImCitizen13/x-clone-tgbot#readme"
+}
