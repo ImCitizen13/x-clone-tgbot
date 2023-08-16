@@ -2,11 +2,11 @@
   "name": "x-clone-tgbot",
   "version": "1.0.0",
   "description": "TG bot ",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "test",
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/ImCitizen13/x-clone-tgbot/issues"
   },
-  "homepage": "https://github.com/ImCitizen13/x-clone-tgbot#readme"
+  "homepage": "https://github.com/ImCitizen13/x-clone-tgbot#readme",
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.61.7"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  }
 }
