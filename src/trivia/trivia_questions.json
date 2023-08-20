@@ -1,0 +1,498 @@
+[
+    {
+      "category": "History",
+      "questions": [
+        {
+          "question": "In what year did the United States declare its independence from Great Britain?",
+          "correct_answer": "1776",
+          "wrong_choices": ["1607", "1865", "1945"]
+        },
+        {
+          "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+          "correct_answer": "Amelia Earhart",
+          "wrong_choices": ["Rosa Parks", "Marie Curie", "Florence Nightingale"]
+        },
+        {
+          "question": "The Renaissance period began in which city known for its artistic and cultural achievements?",
+          "correct_answer": "Florence, Italy",
+          "wrong_choices": ["Paris", "Rome", "Athens"]
+        },
+        {
+          "question": "Who was the primary author of the Declaration of Independence?",
+          "correct_answer": "Thomas Jefferson",
+          "wrong_choices": ["George Washington", "Benjamin Franklin", "John Adams"]
+        },
+        {
+          "question": "What ancient wonder of the world was located in Egypt and is believed to have been a tomb?",
+          "correct_answer": "Great Pyramid of Giza",
+          "wrong_choices": ["Hanging Gardens of Babylon", "Colossus of Rhodes", "Temple of Artemis"]
+        },
+        {
+          "question": "Which war was fought between the North and the South regions of the United States?",
+          "correct_answer": "American Civil War",
+          "wrong_choices": ["World War I", "World War II", "Vietnam War"]
+        },
+        {
+          "question": "What European event marked the end of the Middle Ages and the beginning of the Modern Age?",
+          "correct_answer": "Renaissance",
+          "wrong_choices": ["Industrial Revolution", "Enlightenment", "Reformation"]
+        },
+        {
+          "question": "Which famous battle took place in 1066 and had a significant impact on English history?",
+          "correct_answer": "Battle of Hastings",
+          "wrong_choices": ["Battle of Waterloo", "Battle of Agincourt", "Battle of Thermopylae"]
+        },
+        {
+          "question": "Who is known for leading the nonviolent movement for Indian independence against British rule?",
+          "correct_answer": "Mahatma Gandhi",
+          "wrong_choices": ["Nelson Mandela", "Martin Luther King Jr.", "Winston Churchill"]
+        },
+        {
+          "question": "What is the name of the ship that carried the Pilgrims to America in 1620?",
+          "correct_answer": "Mayflower",
+          "wrong_choices": ["Santa Maria", "Nina", "Victoria"]
+        }
+      ]
+    },
+    {
+      "category": "Pop Culture",
+      "questions": [
+        {
+          "question": "What singer is often referred to as the \"King of Pop\"?",
+          "correct_answer": "Michael Jackson",
+          "wrong_choices": ["Elvis Presley", "Justin Bieber", "Frank Sinatra"]
+        },
+        {
+          "question": "Which popular animated TV show features a family called the Simpsons?",
+          "correct_answer": "The Simpsons",
+          "wrong_choices": ["Family Guy", "South Park", "Rick and Morty"]
+        },
+        {
+          "question": "Who played the lead role of Katniss Everdeen in \"The Hunger Games\" film series?",
+          "correct_answer": "Jennifer Lawrence",
+          "wrong_choices": ["Emma Watson", "Scarlett Johansson", "Kristen Stewart"]
+        },
+        {
+          "question": "Which iconic British spy is known by the code number 007?",
+          "correct_answer": "James Bond",
+          "wrong_choices": ["Jason Bourne", "Ethan Hunt", "Jack Bauer"]
+        },
+        {
+          "question": "What is the name of the wizarding school in J.K. Rowling's Harry Potter series?",
+          "correct_answer": "Hogwarts School of Witchcraft and Wizardry",
+          "wrong_choices": ["Durmstrang Institute", "Beauxbatons Academy of Magic", "Ilvermorny School of Witchcraft and Wizardry"]
+        },
+        {
+          "question": "Who portrayed Jack Dawson in the movie \"Titanic\"?",
+          "correct_answer": "Leonardo DiCaprio",
+          "wrong_choices": ["Tom Cruise", "Brad Pitt", "Johnny Depp"]
+        },
+        {
+          "question": "Which superhero is known as the \"Man of Steel\"?",
+          "correct_answer": "Superman",
+          "wrong_choices": ["Batman", "Spider-Man", "Iron Man"]
+        },
+        {
+          "question": "Which fantasy book series is authored by J.K. Rowling?",
+          "correct_answer": "Harry Potter",
+          "wrong_choices": ["The Lord of the Rings", "Percy Jackson", "Twilight"]
+        },
+        {
+          "question": "Which iconic pop artist created the famous painting \"Campbell's Soup Cans\"?",
+          "correct_answer": "Andy Warhol",
+          "wrong_choices": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci"]
+        },
+        {
+          "question": "What classic novel by Jane Austen explores themes of love and social class?",
+          "correct_answer": "Pride and Prejudice",
+          "wrong_choices": ["Sense and Sensibility", "Emma", "Mansfield Park"]
+        }
+      ]
+    },
+    {
+      "category": "Breaking Bad",
+      "questions": [
+        {
+          "question": "What is the street name for the blue methamphetamine manufactured in \"Breaking Bad\"?",
+          "correct_answer": "Blue Sky",
+          "wrong_choices": ["Crystal Clear", "Ice Blue", "Skyfall"]
+        },
+        {
+          "question": "What is the real name of the chemistry teacher turned methamphetamine manufacturer in the series?",
+          "correct_answer": "Walter White",
+          "wrong_choices": ["Jesse Pinkman", "Hank Schrader", "Saul Goodman"]
+        },
+        {
+          "question": "Who is Walter White's partner in the drug trade in the show?",
+          "correct_answer": "Jesse Pinkman",
+          "wrong_choices": ["Gustavo Fring", "Mike Ehrmantraut", "Skinny Pete"]
+        },
+        {
+          "question": "What is the name of the fast-food restaurant that Gustavo Fring operates as a front for his drug empire?",
+          "correct_answer": "Los Pollos Hermanos",
+          "wrong_choices": ["Heisenburger", "Chicken Express", "Taco Bell"]
+        },
+        {
+          "question": "What element is used to create the distinctive blue color of the meth in the show?",
+          "correct_answer": "Methylamine",
+          "wrong_choices": ["Hydrochloric Acid", "Sulfuric Acid", "Acetone"]
+        },
+        {
+          "question": "What is the name of Walter White's wife in the series?",
+          "correct_answer": "Skyler White",
+          "wrong_choices": ["Marie White", "Holly White", "Jane White"]
+        },
+        {
+          "question": "What is the street name of the criminal lawyer who helps various characters with legal issues?",
+          "correct_answer": "Saul Goodman",
+          "wrong_choices": ["Mike Ehrmantraut", "Gustavo Fring", "Hank Schrader"]
+        },
+        {
+          "question": "What is the name of the nursing home where Hector Salamanca resides?",
+          "correct_answer": "Casa Tranquila",
+          "wrong_choices": ["Los Pollos Hermanos", "Salamanca Residence", "Heisenberg's Hideout"]
+        },
+        {
+          "question": "What is the real name of the drug kingpin known as \"Gus\"?",
+          "correct_answer": "Gustavo Fring",
+          "wrong_choices": ["Hector Salamanca", "Tuco Salamanca", "Joaquin Salamanca"]
+        },
+        {
+          "question": "What alias does Jesse Pinkman often use when dealing with law enforcement?",
+          "correct_answer": "Captain Cook",
+          "wrong_choices": ["Heisenberg", "Badger", "Skinny Pete"]
+        }
+      ]
+    },
+    {
+      "category": "Travel",
+      "questions": [
+        {
+          "question": "Which country is known as the \"Land of the Rising Sun\"?",
+          "correct_answer": "Japan",
+          "wrong_choices": ["China", "South Korea", "Thailand"]
+        },
+        {
+          "question": "What famous Egyptian monument consists of a complex of pyramids, sphinxes, and tombs?",
+          "correct_answer": "Giza Pyramids (Pyramids of Giza)",
+          "wrong_choices": ["Luxor Temple", "Karnak Temple", "Valley of the Kings"]
+        },
+        {
+          "question": "Which European city is famous for its canals and gondolas?",
+          "correct_answer": "Venice, Italy",
+          "wrong_choices": ["Paris", "Amsterdam", "Prague"]
+        },
+        {
+          "question": " What natural wonder spans across two countries: the United States and Canada?",
+          "correct_answer": "Niagara Falls",
+          "wrong_choices": ["Grand Canyon", "Victoria Falls", "Iguazu Falls"]
+        },
+        {
+          "question": "Which landmark is often called the \"Eternal City\" and is the capital of Italy?",
+          "correct_answer": "Rome",
+          "wrong_choices": ["Athens", "Paris", "Istanbul"]
+        },
+        {
+          "question": "Which South American country is home to Machu Picchu, an ancient Inca citadel?",
+          "correct_answer": "Peru",
+          "wrong_choices": ["Ecuador", "Bolivia", "Chile"]
+        },
+        {
+          "question": "Which African desert is known for its vast sand dunes and is often referred to as the \"Sea of Sand\"?",
+          "correct_answer": "Sahara Desert",
+          "wrong_choices": ["Kalahari Desert", "Namib Desert", "Arabian Desert"]
+        },
+        {
+          "question": "Which city is famous for its iconic Opera House and stunning harbor views?",
+          "correct_answer": "Sydney, Australia",
+          "wrong_choices": ["Auckland", "Melbourne", "Brisbane"]
+        },
+        {
+          "question": "The Great Wall of China is one of the most famous architectural wonders. Which dynasty is known for its initial construction?",
+          "correct_answer": "Qin Dynasty",
+          "wrong_choices": ["Han Dynasty", "Ming Dynasty", "Tang Dynasty"]
+        },
+        {
+          "question": "Which European city is known as the \"City of Love\" and is famous for its romantic ambiance?",
+          "correct_answer": "Paris",
+          "wrong_choices": ["Venice", "Florence", "Prague"]
+        }
+      ]
+    },
+    {
+      "category": "Animals",
+      "questions": [
+        {
+          "question": "What is the largest species of shark?",
+          "correct_answer": "Whale shark",
+          "wrong_choices": ["Great white shark", "Tiger shark", "Hammerhead shark"]
+        },
+        {
+          "question": "Which animal is known for its distinctive black and white markings and is native to China?",
+          "correct_answer": "Giant panda",
+          "wrong_choices": ["Red panda", "Koala", "Polar bear"]
+        },
+        {
+          "question": "Which bird species is known for its ability to imitate human speech and sounds?",
+          "correct_answer": "African grey parrot",
+          "wrong_choices": ["Bald eagle", "Peacock", "Penguin"]
+        },
+        {
+          "question": "What is the world's largest land mammal?",
+          "correct_answer": "African elephant",
+          "wrong_choices": ["Giraffe", "Rhinoceros", "Hippopotamus"]
+        },
+        {
+          "question": "Which marine animal is known for its graceful leaps and acrobatic displays?",
+          "correct_answer": "Dolphin",
+          "wrong_choices": ["Seal", "Walrus", "Penguin"]
+        },
+        {
+          "question": "What is the fastest land animal, capable of reaching speeds up to 70 mph (113 km/h)?",
+          "correct_answer": "Cheetah",
+          "wrong_choices": ["Lion", "Tiger", "Leopard"]
+        },
+        {
+          "question": "Which animal is considered the national symbol of Australia and is known for its leaping abilities?",
+          "correct_answer": "Kangaroo",
+          "wrong_choices": ["Koala", "Platypus", "Wallaby"]
+        },
+        {
+          "question": "What is the largest species of penguin, known for its distinctive orange-yellow crest?",
+          "correct_answer": "Emperor penguin",
+          "wrong_choices": ["King penguin", "Adélie penguin", "Rockhopper penguin"]
+        },
+        {
+          "question": "Which reptile, often associated with ancient civilizations, is known for its tough and scaly skin?",
+          "correct_answer": "Crocodile",
+          "wrong_choices": ["Komodo dragon", "Monitor lizard", "Turtle"]
+        },
+        {
+          "question": "What is the fastest fish in the ocean, capable of reaching speeds over 68 mph (110 km/h)?",
+          "correct_answer": "Sailfish",
+          "wrong_choices": ["Clownfish", "Bluefin tuna", "Barracuda"]
+        }
+      ]
+    },
+    {
+      "category": "Language",
+      "questions": [
+        {
+          "question": "What is the most widely spoken language in the world?",
+          "correct_answer": "Mandarin Chinese",
+          "wrong_choices": ["English", "Spanish", "Hindi"]
+        },
+        {
+          "question": "Which language is often called the \"Language of Love\" and is spoken in countries like France, Canada, and Belgium?",
+          "correct_answer": "French",
+          "wrong_choices": ["Italian", "Spanish", "Portuguese"]
+        },
+        {
+          "question": "What is the official language of Japan?",
+          "correct_answer": "Japanese",
+          "wrong_choices": ["Chinese", "Korean", "Thai"]
+        },
+        {
+          "question": "What language is commonly spoken in Russia and other countries of the former Soviet Union?",
+          "correct_answer": "Russian",
+          "wrong_choices": ["Ukrainian", "Polish", "Georgian"]
+        },
+        {
+          "question": "Which language family includes languages like Hindi, Bengali, and Urdu?",
+          "correct_answer": "Indo-Aryan",
+          "wrong_choices": ["Sino-Tibetan", "Altaic", "Dravidian"]
+        },
+        {
+          "question": "What language is considered the most widely learned second language in the world and is used in international diplomacy?",
+          "correct_answer": "English",
+          "wrong_choices": ["Spanish", "French", "German"]
+        },
+        {
+          "question": "Which language is written using the Arabic script and is spoken by millions in the Middle East and North Africa?",
+          "correct_answer": "Arabic",
+          "wrong_choices": ["Farsi (Persian)", "Turkish", "Hebrew"]
+        },
+        {
+          "question": "What language family includes languages like German, Dutch, and Swedish?",
+          "correct_answer": "Germanic",
+          "wrong_choices": ["Romance", "Slavic", "Nordic"]
+        },
+        {
+          "question": "What is the main language spoken in Brazil?",
+          "correct_answer": "Portuguese",
+          "wrong_choices": ["Spanish", "French", "Italian"]
+        },
+        {
+          "question": "What language is known for its unique characters and calligraphy, often seen in East Asia?",
+          "correct_answer": "Chinese",
+          "wrong_choices": ["Japanese", "Korean", "Vietnamese"]
+        }
+      ]
+    },
+    {
+      "category": "Math",
+      "questions": [
+        {
+          "question": "What is the result of 5 multiplied by 7?",
+          "correct_answer": "35",
+          "wrong_choices": ["40", "25", "42"]
+        },
+        {
+          "question": "What is the square root of 144?",
+          "correct_answer": "12",
+          "wrong_choices": ["9", "15", "10"]
+        },
+        {
+          "question": "If x = 3 and y = 7, what is the value of 2x + y?",
+          "correct_answer": "13",
+          "wrong_choices": ["17", "10", "12"]
+        },
+        {
+          "question": "What is the value of π (pi) rounded to two decimal places?",
+          "correct_answer": "3.14",
+          "wrong_choices": ["3.16", "3.12", "3.18"]
+        },
+        {
+          "question": "Simplify: 4x + 2y - (3x - 5y)",
+          "correct_answer": "x + 7y",
+          "wrong_choices": ["7x - 3y", "x - 3y", "4x - 3y"]
+        },
+        {
+          "question": "If a triangle has angles measuring 45°, 45°, and 90°, what type of triangle is it?",
+          "correct_answer": "Isosceles right triangle",
+          "wrong_choices": ["Equilateral triangle", "Scalene triangle", "Acute triangle"]
+        },
+        {
+          "question": "What is the sum of the first 10 positive integers?",
+          "correct_answer": "55",
+          "wrong_choices": ["45", "50", "60"]
+        },
+        {
+          "question": "If 2x + 3 = 9, what is the value of x?",
+          "correct_answer": "3",
+          "wrong_choices": ["2", "4", "5"]
+        },
+        {
+          "question": "What is 20% of 150?",
+          "correct_answer": "30",
+          "wrong_choices": ["25", "15", "40"]
+        },
+        {
+          "question": "What is the area of a rectangle with length 8 units and width 5 units?",
+          "correct_answer": "40 square units",
+          "wrong_choices": ["24 square units", "13 square units", "64 square units"]
+        }
+      ]
+    },
+    {
+      "category": "Science",
+      "questions": [
+        {
+          "question": "What is the chemical symbol for gold?",
+          "correct_answer": "Au",
+          "wrong_choices": ["Ag", "Cu", "Fe"]
+        },
+        {
+          "question": "What is the process by which plants make their own food using sunlight?",
+          "correct_answer": "Photosynthesis",
+          "wrong_choices": ["Respiration", "Fermentation", "Digestion"]
+        },
+        {
+          "question": "Which planet is known as the \"Red Planet\"?",
+          "correct_answer": "Mars",
+          "wrong_choices": ["Venus", "Jupiter", "Saturn"]
+        },
+        {
+          "question": "What is the smallest unit of matter?",
+          "correct_answer": "Atom",
+          "wrong_choices": ["Molecule", "Cell", "Proton"]
+        },
+        {
+          "question": "What is the process by which a liquid turns into a gas at a temperature below its boiling point?",
+          "correct_answer": "Evaporation",
+          "wrong_choices": ["Condensation", "Sublimation", "Melting"]
+        },
+        {
+          "question": "Which force keeps planets in orbit around the Sun?",
+          "correct_answer": "Gravity",
+          "wrong_choices": ["Electromagnetism", "Friction", "Tension"]
+        },
+        {
+          "question": "What gas do plants take in during photosynthesis?",
+          "correct_answer": "Carbon dioxide (CO2)",
+          "wrong_choices": ["Oxygen (O2)", "Nitrogen (N2)", "Hydrogen (H2)"]
+        },
+        {
+          "question": "What is the Earth's innermost layer, composed mostly of iron and nickel?",
+          "correct_answer": "Core",
+          "wrong_choices": ["Mantle", "Crust", "Atmosphere"]
+        },
+        {
+          "question": "What is the process by which an organism develops from a fertilized egg?",
+          "correct_answer": "Embryogenesis",
+          "wrong_choices": ["Metamorphosis", "Fermentation", "Photosynthesis"]
+        },
+        {
+          "question": "What is the densest planet in our solar system?",
+          "correct_answer": "Earth",
+          "wrong_choices": ["Mercury", "Venus", "Mars"]
+        }
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "questions": [
+        {
+          "question": "Which ocean is the largest in the world?",
+          "correct_answer": "Pacific Ocean",
+          "wrong_choices": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
+        },
+        {
+          "question": "Who wrote the play \"Romeo and Juliet\"?",
+          "correct_answer": "William Shakespeare",
+          "wrong_choices": ["Charles Dickens", "Mark Twain", "Jane Austen"]
+        },
+        {
+          "question": "What is the capital city of France?",
+          "correct_answer": "Paris",
+          "wrong_choices": ["London", "Berlin", "Madrid"]
+        },
+        {
+          "question": "What famous scientist developed the theory of relativity?",
+          "correct_answer": "Albert Einstein",
+          "wrong_choices": ["Isaac Newton", "Galileo Galilei", "Nikola Tesla"]
+        },
+        {
+          "question": "Which iconic monument stands in New York Harbor and was a gift from France to the United States?",
+          "correct_answer": "Statue of Liberty",
+          "wrong_choices": ["Eiffel Tower", "Big Ben", "Taj Mahal"]
+        },
+        {
+          "question": "What is the largest planet in our solar system?",
+          "correct_answer": "Jupiter",
+          "wrong_choices": ["Saturn", "Mars", "Neptune"]
+        },
+        {
+          "question": "What is the unit of currency used in Japan?",
+          "correct_answer": "Japanese Yen",
+          "wrong_choices": ["Euro", "Dollar", "Pound"]
+        },
+        {
+          "question": "Which instrument is known as the \"king of instruments\"?",
+          "correct_answer": "Pipe Organ",
+          "wrong_choices": ["Piano", "Violin", "Trumpet"]
+        },
+        {
+          "question": "Which natural satellite orbits the Earth?",
+          "correct_answer": "Moon",
+          "wrong_choices": ["Mars", "Jupiter", "Venus"]
+        },
+        {
+          "question": "What is the chemical symbol for the element oxygen?",
+          "correct_answer": "O",
+          "wrong_choices": ["O2", "Oz", "Oh"]
+        }
+      ]
+    }    
+  ]
+  
